@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[815],{2965:e=>{e.exports=JSON.parse('{"title":"Get Started","slug":"/category/get-started","permalink":"/helios/docs/category/get-started","navigation":{"next":{"title":"Installation","permalink":"/helios/docs/get-started/installion"}}}')}}]);
